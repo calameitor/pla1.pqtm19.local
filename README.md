@@ -32,7 +32,7 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
 
 ![Xammpfoto1](/MEDIA/12_Install_Xampp.PNG))
 
-# Configuracion Virtual Host de  Apache
+## Configuracion Virtual Host de Apache
 
 # Browser-Based
 
