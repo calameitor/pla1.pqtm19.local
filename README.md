@@ -12,3 +12,11 @@
 
 
 
+## Instacion de Xammp
+
+La instalacion de Xammp la optenemos de su paguina oficial, www.apachefriends.org.
+desde alli comenzaremos la instalacion en el disco local.
+
+![Xammpfoto1](/MEDIA/4_Install_Xampp.PNG))
+
+
