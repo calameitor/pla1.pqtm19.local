@@ -22,3 +22,7 @@ desde alli comenzaremos la instalacion en el disco local.
 Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa desde controlpanel con privilegios de administrador, despues clicxamos el servicio Apache para que quede activo siempre y lo arraque windows, tambien arrancamos el serrcio con START
 
 ![Xammpfoto1](/MEDIA/12_Install_Xampp.PNG))
+
+## Configuracion Virtual Host de  Apache
+
+
