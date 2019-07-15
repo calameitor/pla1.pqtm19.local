@@ -5,7 +5,7 @@
 ## Indice.
 
 - [Instalacion de Xammp](#instalacion-de-xammp)
-- [Configuracion Virtual Host de  Apache](#configuracion-virtual-host-de-apache)
+- [Configuracion Virtual Host de Apache](#configuracion-virtual-host-de-apache)
 -
 
 ## Instalacion de Xammp
