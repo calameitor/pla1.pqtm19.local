@@ -2,7 +2,7 @@
 
 ## introduccion
 
-## Indice.
+# Indice.
 
 - [Instacion de Xammp](#Instalacion-de-Xammp)
 - [Configuracion Virtual Host de  Apache](#Configuracion-de-Virtual-Host-Apache)
@@ -12,7 +12,7 @@
 
 
 
-## Instacion de Xammp
+# Instacion de Xammp
 
 La instalacion de Xammp la optenemos de su paguina oficial, www.apachefriends.org.
 desde alli comenzaremos la instalacion en el disco local.
@@ -23,6 +23,6 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
 
 ![Xammpfoto1](/MEDIA/12_Install_Xampp.PNG))
 
-## Configuracion Virtual Host de  Apache
+# Configuracion Virtual Host de  Apache
 
 
