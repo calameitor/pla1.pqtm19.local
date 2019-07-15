@@ -4,7 +4,7 @@
 
 # Indice.
 
-- [Instacion de Xammp](#instalacion-de-xammp)
+- [Instalacion de Xammp](#instalacion-de-xammp)
 - [Configuracion Virtual Host de  Apache](#configuracion-de-virtual-host-apache)
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
@@ -68,7 +68,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 
 
-# Instacion de Xammp
+# Instalacion de Xammp
 
 La instalacion de Xammp la optenemos de su paguina oficial, www.apachefriends.org.
 desde alli comenzaremos la instalacion en el disco local.
