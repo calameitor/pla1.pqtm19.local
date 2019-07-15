@@ -4,8 +4,8 @@
 
 # Indice.
 
-- [Instacion de Xammp](#Instalacion-de-Xammp)
-- [Configuracion Virtual Host de  Apache](#Configuracion-de-Virtual-Host-Apache)
+- [Instacion de Xammp](#instalacion-de-xammp)
+- [Configuracion Virtual Host de  Apache](#configuracion-de-virtual-host-apache)
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
