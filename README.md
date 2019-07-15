@@ -1,1 +1,1 @@
-# pla1.pqtm19.local
+# Configuracion entorno de desarrollo  web
