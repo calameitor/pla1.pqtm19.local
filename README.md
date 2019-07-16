@@ -54,23 +54,23 @@ A continuacion nos pedirá una ruta donde instalar Eclipse.
  
  
 ## Definicion de WorkSpace
- Al final de la instalación de eclipse, nos hace mención del WorkSpace, será muy importante declarar un directorio al que llamaremos PROJECTES, y desde el cual partirán este y los sucesivos trabajos, a partir de ahora, a este escenario, eclipse lo llama WorkSpace, encontraremos una opción para sentenciarlo por defecto y olvidarnos de la operación en sucesivos trabajos.
+Al final de la instalación de eclipse, nos hace mención del WorkSpace, será muy importante declarar un directorio al que llamaremos PROJECTES, y desde el cual partirán este y los sucesivos trabajos, a partir de ahora, a este escenario, eclipse lo llama WorkSpace, encontraremos una opción para sentenciarlo por defecto y olvidarnos de la operación en sucesivos trabajos.
 
 ![eclipsefoto3](/MEDIA/20_Install_Eclipse.PNG)) 
 
 ## Definicion de Projecto
 
-Para definir el nuevo projecto, nos vamos dentro de eclipse, a: archivo --> nuevo--> PHP Project.  alli declaramos el nuevo projecto "pla1.pqtm19.local".
-
-![Xammpfoto1](/MEDIA/foto1.png))
+ Para definir el nuevo proyecto, nos vamos dentro de eclipse, a: archivo --> nuevo--> PHP Project.  allí declaramos el nuevo proyecto "pla1.pqtm19.local
+ 
+![eclipsefoto4](/MEDIA/foto1.png))
 
 ## Definicion del repositorio local
 
-Desde la perspectiva GIT, creamos un nuevo repositorio local que llamaremos como el nuevo projecto "pla1.pqtm19.local".
-ahora tendremos creado el repositorio GIT solo desde la vertiente de editor eclipse, nosfalta generarlo en github, que sera el siguiente paso.
+Desde la perspectiva GIT, creamos un nuevo repositorio local que llamaremos como el nuevo proyecto "pla1.pqtm19.local".
+ahora tendremos creado el repositorio GIT solo desde la vertiente de editor eclipse, nos falta generarlo en github, que será el siguiente paso. ".
 
 
-
+![eclipsefoto5](/MEDIA/foto5.png))
 
 
 
@@ -78,12 +78,14 @@ ahora tendremos creado el repositorio GIT solo desde la vertiente de editor ecli
 
 Una vez alojados en nuestra plataforma Github, crearemos un nuevo repositorio llamado "pla1.pqtm19.local"
 
-
+![Githubfoto1](/MEDIA/foto3.png))
 
 
 ## Exportacion de la Rama "master" local sobre repositorio Github
 
 
-
+ En este punto, tenemos creado el repositorio Git en los dos entornos (Eclipse y  GitHub) solo nos falta sincronizarlos , antes crearemos las carpetas del proyecto y colocaremos unas fotos en una de ellas, que nos servirán para implementar el Fichero README.md, muy importante dentro de cualquier repositorio digno de mención.
+ 
+![eclipsebfoto10](/MEDIA/foto10.png))
 
 
