@@ -21,4 +21,6 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
 
 ## Configuracion Virtual Host de Apache
 
+ Para implementar  la fase de declarar un virtual host, añadimos codigo en dos archivos, uno de ellos "httpd-xampp.conf" lo encontramos en el directorio de xammp, /apache/conf/extra.
+ 
  
