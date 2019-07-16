@@ -46,3 +46,7 @@ A continuacion nos pedira una ruta donde repositar los trabajos.
  
  
 ## Definicion de WorkSpace
+Al final de la instalación de eclipse, nos hace mencion del WorkSpace, sera muy importante declara un directorio al que llamaremos Projectes, y desde el cual partiran este los sucesivos trabajos, a partir de ahora, a este escenario, eclipse lo llama WorkSpace, encontraremos una opcion para senetnciarlo como defecto y olvidarnos de la operacion en sucesivos trabajos.
+
+
+
