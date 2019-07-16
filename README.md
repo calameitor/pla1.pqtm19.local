@@ -11,7 +11,7 @@
 - [Definicion de Projecto](#definicion-de-projecto)
 - [Definicion del repositorio local](#definicion-del-repositorio-local)
 - [Creacion de repositorio Github](#creacion-de-repositorio-github)
-- [Exportacion de la Rama master local sobre repositorio Github](#exportacion-de-la-rama-master-local-sobre-repositorio-github)
+- [Exportacion de la Rama master local sobre repositorio Github](#exportacion-de-la-rama-master-local-sobre-repositorio)
 
  
 
