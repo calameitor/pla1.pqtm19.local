@@ -6,6 +6,7 @@
 
 - [Instalacion de Xammp](#instalacion-de-xammp)
 - [Configuracion Virtual Host de Apache](#configuracion-virtual-host-de-apache)
+- [Instalacion de Eclipse](#instalacion-de-eclipse)
  
 
 ## Instalacion de Xammp
@@ -32,5 +33,8 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
  
  
  
+ ## Instalacion de Eclipse
+ 
+ Eclipse sera nuestro editor IDE de cabecera, para su instalacion nos iremos a su paguina oficial y descargaremos el instalador, para el proceso de instalacion, eclipse requiere tenewr instalado previamente JAVA.
  
  
