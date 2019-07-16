@@ -24,3 +24,13 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
  Para implementar  la fase de declarar un virtual host, añadimos codigo en dos archivos, uno de ellos "httpd-xampp.conf" lo encontramos en el directorio de xammp, /apache/conf/extra.
  
  
+ 
+ 
+ 
+ El otro fichero que se ha de modificar es "hosts", lo encontramos en la siguiente ruta del disco de sistema, C:/Windows/System32/drivers/etc/. añadimos el codigo y salvamos con privilegios de Administrador.
+ 
+ 
+ 
+ 
+ 
+ 
