@@ -41,5 +41,5 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
 
 A continuacion nos pedira una ruta donde repositar los trabajos, asi como un escenario donde trabajar que le llamará workspace.
 
-![Xammpfoto1](/MEDIA/12_Install_Eclipse.PNG)) 
+![Xammpfoto1](/MEDIA/20_Install_Eclipse.PNG)) 
  
