@@ -8,6 +8,7 @@
 - [Configuracion Virtual Host de Apache](#configuracion-virtual-host-de-apache)
 - [Instalacion de Eclipse](#instalacion-de-eclipse)
 - [Definicion de WorkSpace](#definicion-de-workspace)
+- [Definicion de Projecto](#definicion-de-projecto)
  
 
 ## Instalacion de Xammp
@@ -50,3 +51,8 @@ Al final de la instalación de eclipse, nos hace mencion del WorkSpace, sera muy
 
 
 
+## Definicion de Projecto
+
+Para definir el nuevo projecto, nos vamos dentro de eclipse, a: archivo --> nuevo--> PHP Project.  alli declaramos el nuevo projecto "pla1.pqtm19.local".
+
+![Xammpfoto1](/MEDIA/20_Install_Eclipse.PNG))
