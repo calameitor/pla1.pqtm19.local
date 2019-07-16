@@ -44,19 +44,19 @@ Al terminar la instalación , desde el directorio de Xammp, iniciamos el program
  
  ## Instalacion de Eclipse
  
- Eclipse sera nuestro editor IDE de cabecera, para su instalacion nos iremos a su paguina oficial y descargaremos el instalador, para el proceso de instalacion, eclipse requiere tenewr instalado previamente JAVA. Durante la instalcion habremos de elegir un entorno de lenguaje para el desarrollo.
+ Eclipse será nuestro editor IDE de cabecera, para su instalación nos iremos a su página oficial  www.eclipse.org  y descargaremos el instalador, para el proceso de instalación, eclipse requiere tener instalado previamente JAVA. Durante la instalación habremos de elegir un entorno de lenguaje para el desarrollo.
  
-![Xammpfoto1](/MEDIA/12_Install_Eclipse.PNG)) 
+![eclipsefoto1](/MEDIA/12_Install_Eclipse.PNG)) 
 
-A continuacion nos pedira una ruta donde repositar los trabajos.
+A continuacion nos pedirá una ruta donde instalar Eclipse.
 
-![Xammpfoto1](/MEDIA/20_Install_Eclipse.PNG)) 
+![eclipsefoto2](/MEDIA/18_Install_Eclipse.PNG)) 
  
  
 ## Definicion de WorkSpace
-Al final de la instalación de eclipse, nos hace mencion del WorkSpace, sera muy importante declara un directorio al que llamaremos Projectes, y desde el cual partiran este los sucesivos trabajos, a partir de ahora, a este escenario, eclipse lo llama WorkSpace, encontraremos una opcion para senetnciarlo como defecto y olvidarnos de la operacion en sucesivos trabajos.
+ Al final de la instalación de eclipse, nos hace mención del WorkSpace, será muy importante declarar un directorio al que llamaremos PROJECTES, y desde el cual partirán este y los sucesivos trabajos, a partir de ahora, a este escenario, eclipse lo llama WorkSpace, encontraremos una opción para sentenciarlo por defecto y olvidarnos de la operación en sucesivos trabajos.
 
-
+![eclipsefoto3](/MEDIA/20_Install_Eclipse.PNG)) 
 
 ## Definicion de Projecto
 
