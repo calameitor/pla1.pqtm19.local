@@ -1,6 +1,9 @@
 # Configuracion entorno de desarrollo  web
 
-## introduccion
+## introducción
+El ejercicio consiste en crear un escenario de trabajo, con las herramientas Xammp, eclipse y Github.
+Este entorno nos situará en un host virtual con un directorio de proyectos, en el cual residirán todos los siguientes proyectos, de esta manera simularemos una web externa donde los trabajos podrán ser desarrollados y testados.
+Con Github obtendremos la seguridad de las modificaciones y cambios dentro de la evolución del proyecto, durante los procesos de desarrollo se crearan Ramas (versiones) del proyecto que consolidaran el estado de seguridad de la vida de creación del mismo.
 
 ## Indice.
 
@@ -17,26 +20,26 @@
 
 ## Instalacion de Xammp
 
-La instalacion de Xammp la optenemos de su paguina oficial, www.apachefriends.org.
-desde alli comenzaremos la instalacion en el disco local.
+ La instalación de Xammp la obtenemos de su página oficial, www.apachefriends.org.
+desde allí comenzaremos la instalación en el disco local.
+
 
 ![Xammpfoto1](/MEDIA/6_Install_Xampp.PNG))
 
-Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa desde controlpanel con privilegios de administrador, despues clicxamos el servicio Apache para que quede activo siempre y lo arraque windows, tambien arrancamos el serrcio con START
+Al terminar la instalación , desde el directorio de Xammp, iniciamos el programa desde “controlpanel” con privilegios de administrador, después clicamos el servicio Apache para que quede activo siempre y lo arranque Windows, también arrancamos el servicio con START
 
 ![Xammpfoto2](/MEDIA/12_Install_Xampp.PNG))
 
 ## Configuracion Virtual Host de Apache
 
- Para implementar  la fase de declarar un virtual host, añadimos codigo en dos archivos, uno de ellos "httpd-xampp.conf" lo encontramos en el directorio de xammp, /apache/conf/extra.
+  Para implementar  la fase de declarar un virtual host, añadimos código en dos archivos, uno de ellos "httpd-xampp.conf" lo encontramos en el directorio de xammp, /apache/conf/extra. 
+ 
+ ![VirtualHfoto1](/MEDIA/virtual1.png))
  
  
+ El otro fichero que se ha de modificar es "hosts", lo encontramos en la siguiente ruta del disco de sistema, C:/Windows/System32/drivers/etc/. añadimos el código y salvamos con privilegios de Administrador.
  
- 
- 
- El otro fichero que se ha de modificar es "hosts", lo encontramos en la siguiente ruta del disco de sistema, C:/Windows/System32/drivers/etc/. añadimos el codigo y salvamos con privilegios de Administrador.
- 
- 
+  ![VirtualHfoto2](/MEDIA/codigo_host.png))
  
  
  ## Instalacion de Eclipse
