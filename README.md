@@ -88,4 +88,4 @@ Una vez alojados en nuestra plataforma Github, crearemos un nuevo repositorio ll
  
 ![eclipsebfoto10](/MEDIA/foto10.png))
 
-
+Este es un trabajo, bajo la licencia de www.tonioblanco.com 
