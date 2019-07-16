@@ -1,4 +1,4 @@
-# Configuracion entorno de desarrollo  web
+# Configuración entorno de desarrollo  web
 
 ## introducción
 El ejercicio consiste en crear un escenario de trabajo, con las herramientas Xammp, eclipse y Github.
