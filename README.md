@@ -7,6 +7,7 @@
 - [Instalacion de Xammp](#instalacion-de-xammp)
 - [Configuracion Virtual Host de Apache](#configuracion-virtual-host-de-apache)
 - [Instalacion de Eclipse](#instalacion-de-eclipse)
+- [Definicion de WorkSpace](#definicion-de-workspace)
  
 
 ## Instalacion de Xammp
@@ -18,7 +19,7 @@ desde alli comenzaremos la instalacion en el disco local.
 
 Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa desde controlpanel con privilegios de administrador, despues clicxamos el servicio Apache para que quede activo siempre y lo arraque windows, tambien arrancamos el serrcio con START
 
-![Xammpfoto1](/MEDIA/12_Install_Xampp.PNG))
+![Xammpfoto2](/MEDIA/12_Install_Xampp.PNG))
 
 ## Configuracion Virtual Host de Apache
 
@@ -39,7 +40,9 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
  
 ![Xammpfoto1](/MEDIA/12_Install_Eclipse.PNG)) 
 
-A continuacion nos pedira una ruta donde repositar los trabajos, asi como un escenario donde trabajar que le llamará workspace.
+A continuacion nos pedira una ruta donde repositar los trabajos.
 
 ![Xammpfoto1](/MEDIA/20_Install_Eclipse.PNG)) 
  
+ 
+## Definicion de WorkSpace
