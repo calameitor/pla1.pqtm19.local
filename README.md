@@ -55,4 +55,4 @@ Al final de la instalación de eclipse, nos hace mencion del WorkSpace, sera muy
 
 Para definir el nuevo projecto, nos vamos dentro de eclipse, a: archivo --> nuevo--> PHP Project.  alli declaramos el nuevo projecto "pla1.pqtm19.local".
 
-![Xammpfoto1](/MEDIA/20_Install_Eclipse.PNG))
+![Xammpfoto1](/MEDIA/foto1.png))
