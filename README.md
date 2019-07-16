@@ -35,6 +35,7 @@ Al terminar la instalacion , desde el directorio de Xammp, iniciamos el programa
  
  ## Instalacion de Eclipse
  
- Eclipse sera nuestro editor IDE de cabecera, para su instalacion nos iremos a su paguina oficial y descargaremos el instalador, para el proceso de instalacion, eclipse requiere tenewr instalado previamente JAVA.
+ Eclipse sera nuestro editor IDE de cabecera, para su instalacion nos iremos a su paguina oficial y descargaremos el instalador, para el proceso de instalacion, eclipse requiere tenewr instalado previamente JAVA. Durante la instalcion habremos de elegir un entorno de lenguaje para el desarrollo.
  
+![Xammpfoto1](/MEDIA/12_Install_Xampp.PNG)) 
  
