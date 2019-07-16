@@ -9,6 +9,9 @@
 - [Instalacion de Eclipse](#instalacion-de-eclipse)
 - [Definicion de WorkSpace](#definicion-de-workspace)
 - [Definicion de Projecto](#definicion-de-projecto)
+- [Definicion del repositorio local](#definicion-del-repositorio-local)
+- [Creacion de repositorio Github](#creacion-de-repositorio-github)
+
  
 
 ## Instalacion de Xammp
@@ -56,3 +59,25 @@ Al final de la instalación de eclipse, nos hace mencion del WorkSpace, sera muy
 Para definir el nuevo projecto, nos vamos dentro de eclipse, a: archivo --> nuevo--> PHP Project.  alli declaramos el nuevo projecto "pla1.pqtm19.local".
 
 ![Xammpfoto1](/MEDIA/foto1.png))
+
+## Definicion del repositorio local
+
+Desde la perspectiva GIT, creamos un nuevo repositorio local que llamaremos como el nuevo projecto "pla1.pqtm19.local".
+ahora tendremos creado el repositorio GIT solo desde la vertiente de editor eclipse, nosfalta generarlo en github, que sera el siguiente paso.
+
+
+
+
+
+
+## Creacion de repositorio Github
+
+Una vez alojados en nuestra plataforma Github, crearemos un nuevo repositorio llamado "pla1.pqtm19.local"
+
+
+
+
+
+
+
+
